@@ -157,7 +157,7 @@ document.transact(...);
 document.undo();
 
 // fires a redo event
-document.undo();
+document.redo();
 ```
 
 ### Examples
